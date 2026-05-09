@@ -24,15 +24,7 @@
 ![Git](https://img.shields.io/badge/Git-VersionControl-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github)
 
----
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saeed-asif&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-asif&layout=compact&theme=tokyonight" />
-
----
 
 ## 📈 Current Focus
 
