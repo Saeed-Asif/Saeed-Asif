@@ -1,6 +1,6 @@
 # Hi, I'm Saeed 👋
 
-🎓 BSCS Student  
+🎓 BSCS GRADUATE FROM COMSATS  
 ⚙️ Aspiring DevOps Engineer  
 🐧 Linux & Bash Automation Learner  
 ☁️ Learning Docker, CI/CD, GitHub Actions  
