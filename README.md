@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Saeed
+# Hi, I'm Saeed 👋
 
 🎓 BSCS Graduate from COMSATS University Islamabad  
 ⚙️ Aspiring DevOps Engineer  
@@ -8,37 +8,44 @@
 
 ---
 
+## 🔥 Current Projects
+
+- User Management & Backup Automation System
+- Linux Bash Automation Scripts
+- Docker Learning Labs
+
+---
+
 ## 🛠️ Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=ubuntu)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-VersionControl-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saeed-Asif&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saeed-asif&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saeed-Asif&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-asif&layout=compact&theme=tokyonight" />
 
 ---
 
-## 🚀 Current Focus
+## 📈 Current Focus
 
+- DevOps Fundamentals
 - Linux Automation
 - Bash Scripting
-- Docker
+- Docker & Containers
 - CI/CD Pipelines
 - GitHub Actions
 
 ---
 
-## 📌 Featured Project
+## 🌐 Connect With Me
 
-### Linux User Management System
-Automation project for:
-- User creation
-- Backup automation
-- Logging
-- Permission management
+💼 LinkedIn:  
+https://www.linkedin.com/in/saeedasif433445/
