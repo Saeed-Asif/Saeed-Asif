@@ -40,10 +40,10 @@
 ## 🌐 Connect With Me
 
 💼 LinkedIn:  
-https://www.linkedin.com/in/saeedasif433445/
+https://www.linkedin.com/in/saeedasif-devops/
 
 📧 Email:  
-saeed03174072340@gmail.com
+saeed55750800@gmail.com
 
 💬 WhatsApp:  
-+92 309 2536114
++92 309 5263441
