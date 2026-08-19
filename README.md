@@ -119,7 +119,7 @@
 
 ## 🎯 DevOps Roadmap
 
-**Linux → Git → Bash → Docker → CI/CD → Cloud → Kubernetes → Helm → Terraform → Ansible → Monitoring**
+**Linux →</br> Git → </br>Bash → </br>Docker → </br>CI/CD → </br>Cloud → </br>Kubernetes → </br>Helm → </br>Terraform → </br>Ansible → </br>Monitoring**
 
 ---
 
