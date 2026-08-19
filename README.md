@@ -1,10 +1,10 @@
 # Hi, I'm Saeed 👋
 
-🎓 BSCS Graduate from COMSATS University Islamabad
-⚙️ Aspiring DevOps Engineer
-🐧 Linux & Bash Automation Learner
-☁️ Learning Cloud, Docker, CI/CD & Kubernetes
-🚀 Building Real DevOps Projects Daily
+🎓 BSCS Graduate from COMSATS University Islamabad</br>
+⚙️ Aspiring DevOps Engineer</br>
+🐧 Linux & Bash Automation Learner</br>
+☁️ Learning Cloud, Docker, CI/CD & Kubernetes</br>
+🚀 Building Real DevOps Projects Daily</br>
 
 ---
 
